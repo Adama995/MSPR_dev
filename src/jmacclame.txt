@@ -3,6 +3,6 @@ Joseph
 Agent de sécurité privée
 erty252bSEHYY
 
-Cyno
-Taser
-Kit
+cyno
+taser
+kit
